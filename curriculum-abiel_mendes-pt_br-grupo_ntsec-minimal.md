@@ -1,8 +1,8 @@
 # Abiel Mendes dos Santos
 
-portfolio: [paodelonga.dev](https://paodelonga.dev) | linkedin: [linkedin.com/in/paodelonga/](https://linkedin.com/in/paodelonga/)
+portfolio: [paodelonga.dev](https://paodelonga.dev) \| linkedin: [linkedin.com/in/paodelonga/](https://linkedin.com/in/paodelonga/)
+github: [github.com/paodelonga](https://github.com/paodelonga) | curriculos: [vitae.paodelonga.dev](https://vitae.paodelonga.dev)
 e-mail: [paodelonga@proton.me](mailto://paodelonga@proton.me), [me@paodelonga.dev](mailto://me@paodelonga.dev)
-github: [github.com/paodelonga](https://github.com/paodelonga)
 
 ## Resumo Profissional
 
