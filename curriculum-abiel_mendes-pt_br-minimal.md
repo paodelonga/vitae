@@ -76,6 +76,7 @@ _Engenheiro de Infraestrutura de TI, Projeto Pessoal, 2023 – Presente_
 - Nginx, Traefik, Cloudflare CDN, Cloudflare WAF, Cloudflare DNS.
 - SSH, SNMP, ICMP, Alerts via Webhook, Discord, Whatsapp, E-mail
 - Infra as Code, Linux based (Debian, CentOS), OpnSense, OpenWRT
+- Documentei o projeto no GitHub ([Grimaldis](https://github.com/grimaldis/infra)).
 
 ##### **Vrykolakas – Administração de Comunidade e Servidor de Minecraft**
 
