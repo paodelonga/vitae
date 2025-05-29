@@ -11,6 +11,6 @@ permalink: /
 > [<kbd> <br> Minimal PT-BR Grupo NTSec <br> </kbd>](./curriculum-abiel_mendes-pt_br-grupo_ntsec-minimal.md)
 > [<kbd> <br> Full PT-BR <br> </kbd>](./curriculum-abiel_mendes-pt_br-full.md)
 
-[portfolio](https://paodelonga.dev), [linkedin](https://linkedin.com/in/paodelonga) <br>
-[me@paodelonga.dev](mailto:paodelonga.dev) or [paodelonga@proton.me](mailto:paodelonga@proton.me) <br>
+[portfolio](https://paodelonga.dev), [linkedin](https://linkedin.com/in/paodelonga), [github](https://gh.paodelonga.dev), [dotfiles](https://dots.paodelonga.dev) <br>
+[me@paodelonga.dev](mailto:me@paodelonga.dev) or [paodelonga@proton.me](mailto:paodelonga@proton.me) <br>
 [source here](https://github.com/paodelonga/vitae)
