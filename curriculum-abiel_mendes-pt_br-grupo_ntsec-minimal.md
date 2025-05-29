@@ -6,7 +6,7 @@ e-mail: [paodelonga@proton.me](mailto://paodelonga@proton.me), [me@paodelonga.de
 
 ## Resumo Profissional
 
-Autodidata com enfoque em engenharia da computação, cursando Técnico Redes de Computadores - IFMA (PROEJA), Administração de Redes e Sistemas - SENAC e estagiando no Arquivo Público do Estado do Maranhão, com forte interesse em redes, hardware e sistemas operacionais, possui interesse em propagar conhecimento e resolver problemas encarados por outros.
+Autodidata com enfoque em engenharia da computação, cursando Técnico Redes de Computadores - IFMA, Administração de Redes e Sistemas - SENAC e estagiando no Arquivo Público do Estado do Maranhão, com forte interesse em redes, hardware e sistemas operacionais, possui interesse em propagar conhecimento e resolver problemas encarados por outros.
 
 > Destaco a disponibilidade para mudança ou viagens, caso regime híbrido ou remoto. E o interesse
 que tive ao encontrar o Grupo NTSec de conhecer mais do grupo - seria incrível poder visita-los. E a
@@ -30,6 +30,8 @@ ativamente com os objetivos da empresa e do time
 - Cloud: Nginx, Traefik, Docker, Kubernetes, arquitetura de Micro-Serviços, Google Workspace, GCP e AWS.
 - Segurança: Host Firewall (nftables, iptables, ufw), Fail2Ban, CrowdSec e IPFire. FWaaS (AWS WAF), Cloudflare WAF, Hashicorp Vault & Nomad, SSL, TLS.
 - Sistemas Operacionais: NixOS, Linux Desktop & Server (Ubuntu, Debian, ArchLinux), Windows Desktop, CentOS, Scripting e Automação Python, Bash, Zsh, Fish, Shell, Rust.
+
+<br>
 
 ## Formação
 
@@ -72,7 +74,7 @@ _Engenheiro de Infraestrutura de TI, Projeto Pessoal, 2023 – Presente_
 - Nginx, Traefik, Cloudflare CDN, Cloudflare WAF, Cloudflare DNS.
 - SSH, SNMP, ICMP, Alerts via Webhook, Discord, Whatsapp, E-mail
 - Infra as Code, Linux based (Debian, CentOS), OpnSense, OpenWRT
-- Documentei o projeto no GitHub ([Grimaldis](https://github.com/grimaldis/infra)).
+- Documentei o projeto no GitHub ([Grinmaldis](https://github.com/grinmaldis)).
 
 ##### **Vrykolakas – Administração de Comunidade e Servidor de Minecraft**
 

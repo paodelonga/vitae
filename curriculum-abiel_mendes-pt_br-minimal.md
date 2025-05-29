@@ -4,13 +4,9 @@ portfolio: [paodelonga.dev](https://paodelonga.dev) \| linkedin: [linkedin.com/i
 github: [github.com/paodelonga](https://github.com/paodelonga) | curriculos: [vitae.paodelonga.dev](https://vitae.paodelonga.dev)
 e-mail: [paodelonga@proton.me](mailto://paodelonga@proton.me), [me@paodelonga.dev](mailto://me@paodelonga.dev)
 
----
-
 ## Resumo Profissional
 
-Autodidata com enfoque em engenharia da computação, cursando Técnico Redes de Computadores - IFMA (PROEJA), Administração de Redes e Sistemas - SENAC e estagiando no Arquivo Público do Estado do Maranhão, com forte interesse em redes, hardware e sistemas operacionais, possui interesse em propagar conhecimento e resolver problemas encarados por outros.
-
----
+Autodidata com enfoque em engenharia da computação, cursando Técnico Redes de Computadores - IFMA, Administração de Redes e Sistemas - SENAC e estagiando no Arquivo Público do Estado do Maranhão, com forte interesse em redes, hardware e sistemas operacionais, possui interesse em propagar conhecimento e resolver problemas encarados por outros.
 
 ## Habilidades Técnicas e de Interesse
 
@@ -28,8 +24,6 @@ Autodidata com enfoque em engenharia da computação, cursando Técnico Redes de
 - Cloud: Nginx, Traefik, Docker, Kubernetes, arquitetura de Micro-Serviços, Google Workspace, GCP e AWS.
 - Segurança: Host Firewall (nftables, iptables, ufw), Fail2Ban, CrowdSec e IPFire. FWaaS (AWS WAF), Cloudflare WAF, Hashicorp Vault & Nomad, SSL, TLS.
 - Sistemas Operacionais: NixOS, Linux Desktop & Server (Ubuntu, Debian, ArchLinux), Windows Desktop, CentOS, Scripting e Automação Python, Bash, Zsh, Fish, Shell, Rust.
-
----
 
 ## Formação
 
@@ -49,8 +43,6 @@ _02/2024 – 07/2024_
 _INCODE Tech School_ – São Luís, MA
 _08/2024 – 02/2025_025)_
 
----
-
 ## Certificações de interesse
 
 - *CompTIA Network+*
@@ -61,8 +53,6 @@ _08/2024 – 02/2025_025)_
 - *GitHub Advanced Security Certified*
 - *Linux Foundation CKAD (Certified Kubernetes Application Developer)*
 - *GitLab Certified CI/CD Specialist*
-
----
 
 ## Projetos
 
@@ -76,11 +66,11 @@ _Engenheiro de Infraestrutura de TI, Projeto Pessoal, 2023 – Presente_
 - Nginx, Traefik, Cloudflare CDN, Cloudflare WAF, Cloudflare DNS.
 - SSH, SNMP, ICMP, Alerts via Webhook, Discord, Whatsapp, E-mail
 - Infra as Code, Linux based (Debian, CentOS), OpnSense, OpenWRT
-- Documentei o projeto no GitHub ([Grimaldis](https://github.com/grimaldis/infra)).
+- Documentei o projeto no GitHub ([Grinmaldis](https://github.com/grinmaldis)).
 
 ##### **Vrykolakas – Administração de Comunidade e Servidor de Minecraft**
 
-_Administrador de Infraestrutura e Desenvolvedor, Projeto Comunitário, 2024 – Presente_
+_Administrador de Infraestrutura e Desenvolvedor, Projeto Pessoal, 2024 – Presente_
 
 Administro e contribuo para a Vrykolakas, uma comunidade de Minecraft focada em criar uma experiência imersiva com servidores personalizados. Utilizo servidores Linux (Ubuntu, Debian) e ferramentas como Docker, Bash scripting e plugins para gerenciar e otimizar a infraestrutura do jogo, garantindo alta disponibilidade e desempenho.
 
