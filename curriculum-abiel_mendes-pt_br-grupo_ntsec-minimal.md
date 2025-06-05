@@ -90,3 +90,7 @@ Administro e contribuo para a Vrykolakas, uma comunidade de Minecraft focada em 
 - Implantei um sistema de notificações via Discord usando webhooks, informando a comunidade sobre atualizações, eventos e alertas de manutenção.
 - Mantenho a infraestrutura em servidores Linux, aplicando políticas de hardening com base em guias CIS e pretendo utilizar pfSense para gerenciamento de firewall.
 - Estou documentando a configuração do servidor e processos da comunidade em nossa [página](https://vrykolakas.space), incluindo guias para instalação de mods e administração de plugins.
+
+---
+
+[<kbd> <br> PDF <br> </kbd>](./curriculum-abiel_mendes-pt_br-grupo_ntsec-minimal.pdf)
