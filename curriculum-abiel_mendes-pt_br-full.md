@@ -138,4 +138,4 @@ Administro e contribuo para a Vrykolakas, uma comunidade de Minecraft focada em 
 
 ---
 
-[<kbd> <br> PDF <br> </kbd>](./curriculum-abiel_mendes-pt_br-full.pdf)
+[<kbd> <br>&nbsp;PDF&nbsp;<br> </kbd>](./curriculum-abiel_mendes-pt_br-full.pdf)
