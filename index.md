@@ -6,6 +6,8 @@ permalink: /
 > versions of the curriculum vitae belonging to Abiel ([paodelonga](https://paodelonga.dev)) Santos.
 >
 > Below you will find clickable buttons redirecting you to each of the different versions.
+> At the bottom of each page you'll find a button to open the PDF template.
+>
 >
 > -------------------------------------------------------------------------------------------
 >
@@ -14,6 +16,7 @@ permalink: /
 > versões de curriculum vitae pertencentes a Abiel ([paodelonga](https://paodelonga.dev)) Santos.
 >
 > A baixo você encontrará botões redirecionando para cada versão dos curriculum.
+> Ao final de cada página você encontrará um botão para abrir o modelo em PDF.
 >
 > [<kbd> <br> Minimal PT-BR <br> </kbd>](./curriculum-abiel_mendes-pt_br-minimal.md)
 > [<kbd> <br> Minimal PT-BR Grupo NTSec <br> </kbd>](./curriculum-abiel_mendes-pt_br-grupo_ntsec-minimal.md)
