@@ -1,11 +1,10 @@
 # Abiel Mendes dos Santos
 *CoE Enthusiast & Student • Backend • DevOps • Infra | Git | GitHub | GitLab | CI/CD | Jenkins | Actions | Docker | Kubernets | AWS | GCP | CloudFlare | OpenStack | Ansible*
 
-[paodelonga.dev](https://paodelonga.dev) \| [vitae.paodelonga.dev](https://vitae.paodelonga.dev) \| [linkedin.com/in/paodelonga/](https://linkedin.com/in/paodelonga/) \| [github.com/paodelonga](https://github.com/paodelonga)
-[paodelonga@proton.me](mailto://paodelonga@proton.me)
+[paodelonga.dev](https://paodelonga.dev) \| [vitae.paodelonga.dev](https://vitae.paodelonga.dev) \| [linkedin.com/in/paodelonga/](https://linkedin.com/in/paodelonga/) \| [github.com/paodelonga](https://github.com/paodelonga) \| [paodelonga@proton.me](mailto://paodelonga@proton.me)
+
 
 ## Resumo Profissional
-
 Autodidata com enfoque em engenharia da computação, cursando Técnico Redes de Computadores - IFMA, Administração de Redes e Sistemas - SENAC e estagiando no APEM, com forte interesse em redes, hardware e sistemas operacionais, possui interesse em propagar conhecimento e resolver problemas encarados por outros. No tempo livre sigo aprendendo mais sobre a área de Desenvolvimento, Redes e Infra por pesquisa e prática aplicada na minha infraestrutura criada a partir do interesse em DevOps e Redes.
 
 ## Habilidades Técnicas e de Interesse
