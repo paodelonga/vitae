@@ -1,7 +1,8 @@
 # Abiel Mendes dos Santos
-*CoE Enthusiast & Student • Backend • DevOps • Infra | Git | GitHub | GitLab | CI/CD | Jenkins | Actions | Docker | Kubernets | AWS | GCP | CloudFlare | OpenStack | Ansible*
+*Estudante de Eng. Comp • Backend • DevOps • Infra | Git | GitHub | GitLab | CI/CD | Jenkins | Actions | Docker | Kubernetes | CloudFlare | OpenStack | Ansible*
 
-[paodelonga.dev](https://paodelonga.dev) \| [vitae.paodelonga.dev](https://vitae.paodelonga.dev) \| [linkedin.com/in/paodelonga/](https://linkedin.com/in/paodelonga/) \| [github.com/paodelonga](https://github.com/paodelonga) \| [paodelonga@proton.me](mailto://paodelonga@proton.me)
+[paodelonga.dev](https://paodelonga.dev) \| [linkedin.com/in/paodelonga/](https://linkedin.com/in/paodelonga/) \| [github.com/paodelonga](https://github.com/paodelonga)<br>
+São Luís, Maranhão - Brasil \| [paodelonga@proton.me](mailto://paodelonga@proton.me)
 
 
 ## Resumo Profissional

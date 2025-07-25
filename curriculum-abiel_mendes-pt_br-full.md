@@ -1,15 +1,16 @@
 # Abiel Mendes dos Santos
-*CoE Enthusiast & Student • Backend • DevOps • Infra | Git | GitHub | GitLab | CI/CD | Jenkins | Actions | Docker | Kubernets | AWS | GCP | CloudFlare | OpenStack | Ansible*
+*Estudante de Eng. Comp • Backend • DevOps • Infra | Git | GitHub | GitLab | CI/CD | Jenkins | Actions | Docker | Kubernetes | CloudFlare | OpenStack | Ansible*
 
-[paodelonga.dev](https://paodelonga.dev) \| [vitae.paodelonga.dev](https://vitae.paodelonga.dev) \| [linkedin.com/in/paodelonga/](https://linkedin.com/in/paodelonga/) \| [github.com/paodelonga](https://github.com/paodelonga) \| [paodelonga@proton.me](mailto://paodelonga@proton.me)
+[paodelonga.dev](https://paodelonga.dev) \| [linkedin.com/in/paodelonga/](https://linkedin.com/in/paodelonga/) \| [github.com/paodelonga](https://github.com/paodelonga)<br>
+São Luís, Maranhão - Brasil \| [paodelonga@proton.me](mailto://paodelonga@proton.me)
 
 ## Resumo Profissional
 
-Autodidata com enfoque em engenharia da computação, cursando Técnico Redes de Computadores - IFMA, Administração de Redes e Sistemas - SENAC e estagiando no APEM, com forte interesse em redes, hardware e sistemas operacionais, possui interesse em propagar conhecimento e resolver problemas encarados por outros. No tempo livre sigo aprendendo mais sobre a área de Desenvolvimento, Redes e Infra por pesquisa e prática aplicada na minha infraestrutura criada a partir do interesse em DevOps e Redes.
+Autodidata com foco em engenharia da computação, cursando Técnico Redes de Computadores - IFMA, Administração de Redes e Sistemas - SENAC, e estagiando no Arquivo Público do Estado do Maranhão, possui forte interesse em redes, sistemas operacionais, e desejo de propagar conhecimento e contribuir ativamente na resolução de problemas encarados por outros. Ao longo do tempo segue aprendendo mais sobre Desenvolvimento e DevOps, Redes e Infraestrutura tanto por pesquisa e estudos, quanto de forma prática aplicando na sua infraestrutura própria.
 
 ## Experiência Profissional
 
-**Estagiário Arquivista**
+###### **Estagiário Arquivista**
 _Arquivo Público do Estado do Maranhão_ – São Luís, MA
 _11/2024 – 11/2025_
 
@@ -18,7 +19,7 @@ _11/2024 – 11/2025_
 - Implementei soluções de conectividade e documentação de infraestrutura de rede, alinhadas às necessidades do local.
 - Contribuí para a digitalização e informatização do acervo, aplicando conhecimentos em infraestrutura de TI.
 
-**STAFF, Monitor - Maratona de Programação (Hackaton)**
+###### **STAFF, Monitor - Maratona de Programação (Hackaton)**
 _INCODE Tech School - Trainee_ – São Luís, MA
 _09/2024 – 09/2024_
 
