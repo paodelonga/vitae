@@ -1,12 +1,11 @@
 # Abiel Mendes dos Santos
+*CoE Enthusiast & Student • Backend • DevOps • Infra | Git | GitHub | GitLab | CI/CD | Jenkins | Actions | Docker | Kubernets | AWS | GCP | CloudFlare | OpenStack | Ansible*
 
-portfolio: [paodelonga.dev](https://paodelonga.dev) \| linkedin: [linkedin.com/in/paodelonga/](https://linkedin.com/in/paodelonga/)
-github: [github.com/paodelonga](https://github.com/paodelonga) | curriculos: [vitae.paodelonga.dev](https://vitae.paodelonga.dev)
-e-mail: [paodelonga@proton.me](mailto://paodelonga@proton.me), [me@paodelonga.dev](mailto://me@paodelonga.dev)
+[paodelonga.dev](https://paodelonga.dev) \| [vitae.paodelonga.dev](https://vitae.paodelonga.dev) \| [linkedin.com/in/paodelonga/](https://linkedin.com/in/paodelonga/) \| [github.com/paodelonga](https://github.com/paodelonga) \| [paodelonga@proton.me](mailto://paodelonga@proton.me)
 
 ## Resumo Profissional
 
-Autodidata com enfoque em engenharia da computação, cursando Técnico Redes de Computadores - IFMA, Administração de Redes e Sistemas - SENAC e estagiando no Arquivo Público do Estado do Maranhão, com forte interesse em redes, hardware e sistemas operacionais, possui interesse em propagar conhecimento e resolver problemas encarados por outros.
+Autodidata com enfoque em engenharia da computação, cursando Técnico Redes de Computadores - IFMA, Administração de Redes e Sistemas - SENAC e estagiando no APEM, com forte interesse em redes, hardware e sistemas operacionais, possui interesse em propagar conhecimento e resolver problemas encarados por outros. No tempo livre sigo aprendendo mais sobre a área de Desenvolvimento, Redes e Infra por pesquisa e prática aplicada na minha infraestrutura criada a partir do interesse em DevOps e Redes.
 
 ## Experiência Profissional
 
@@ -30,20 +29,20 @@ _09/2024 – 09/2024_
 
 ## Formação
 
-**Técnico em Redes de Computadores**
-_IFMA_ – São José de Ribamar, MA
+**Técnico em Redes de Computadores**, Instituto Federal do Maranhão
+São José de Ribamar, MA
 _03/2023 – 01/2026_
 
-**Administração de Redes e Sistemas**
-_SENAC_ – São Luís, MA
+**Administração de Redes e Sistemas**, _SENAC_
+São Luís, MA
 _03/2025 – 08/2025_
 
-**Módulo 1 - Formação, Engenharia de Software**
-_INCODE Tech School_ – São Luís, MA
+**Módulo 1 - Formação, Engenharia de Software**, _INCODE Tech School, CEUMA_
+São Luís, MA
 _02/2024 – 07/2024_
 
-**Módulo 2 - Oxygenação, Engenharia de Software**
-_INCODE Tech School_ – São Luís, MA
+**Módulo 2 - Oxygenação, Engenharia de Software**, _INCODE Tech School, CEUMA_
+São Luís, MA
 _08/2024 – 02/2025_
 
 ## Certificações de interesse
@@ -59,41 +58,35 @@ _08/2024 – 02/2025_
 
 ## Habilidades Técnicas e de Interesse
 
-- Desenvolvimento: Python, Java, TypeScript, Node.js, Git, GitHub, GitLab, Jenkins, Gitea.
-- Infraestrutura: XPC-NG, Docker, Kubernetes, OpenStack, Proxmox, VMWare, KVM, pfSense, OpenWRT.
-- Automação e Configuração: Ansible, Puppet, Terraform (apenas teórico)
-- Monitoramento e Logging: Zabbix, Prometheus, Grafana.
+- Desenvolvimento: Python, Java, Rust, Golang, TypeScript, Node.js, API REST, Git, GitHub, GitLab, Jenkins, Gitea
+- Infraestrutura: Docker, Proxmox, VMWare, KVM, Kubernetes, OpenStack, EVE-NG, XPC-NG, pfSense, OpenWRT
+- Automação e Configuração: Ansible, Terraform
+- Monitoramento e Logging: Zabbix, Prometheus, Grafana
 - Bancos de Dados: MySQL, Firebase, H2
-
-## Habilidades Técnicas e de Interesse
-
-- Redes: TCP/IP, DNS, DHCP, SNMP, ICMP, HTTP(S), API REST, SSL, TLS, VLANs, SMTP, POP3, IMAP, SMB, FTP, SSH, EVE-NG.
-	- Switching
-		- Administração e configuração de switches Layer 2 e Layer 3
-		- Implementação de VLANs para segmentação de rede e aumento da segurança
-		- Configuração de protocolos como STP (Spanning Tree Protocol), VTP (VLAN Trunking Protocol) e EtherChannel
-		- Monitoramento de performance e controle
-	- Administração de servidores
-		- Gerenciamento de servidores Linux e Windows Server: instalação, configuração e manutenção
-		- Configuração de serviços de rede: DNS, DHCP, FTP, HTTP, HTTPS, SSH
-		- Gerenciamento de usuários, permissões e políticas de segurança
-		- Virtualização e containers: VMware, VirtualBox, Docker
-		- Monitoramento de recursos com htop, top, netstat, iostat, ps
-	- Configuração de ativos de rede
-		- Configuração e gerenciamento de roteadores, switches e access points (Cisco, Juniper, TP-Link e outros)
-		- Implementação de políticas de segurança via ACLs (Access Control Lists) e autenticação de usuários
-		- Atualização de firmware e backup de configurações para garantia da estabilidade da rede
-		- Uso de ferramentas para automação e monitoramento como Ansible, SNMP, Wireshark e Nmap
-	- Cabeamento estruturado
-		- Instalação e manutenção de sistemas de cabeamento estruturado seguindo normas técnicas
-		- Interesse em fibras ópticas conhecimento em cabos de par trançado (Cat5e, Cat6, Cat6a)
-		- Realização de testes de certificação com equipamentos específicos (certificadores de cabo, testadores de continuidade e atenuação)
-		- Organização e padronização do cabeamento para garantir alta performance e baixa latência
-
-## Habilidades Técnicas e de Interesse
-
+- Redes: TCP/IP, DNS, DHCP, SNMP, ICMP, HTTP(S), API REST, SSL, TLS, VLANs, SMTP, POP3, IMAP, SMB, FTP, SSH
+- Switching
+	- Administração e configuração de switches Layer 2 e Layer 3
+	- Implementação de VLANs para segmentação de rede e aumento da segurança
+	- Configuração de protocolos como STP (Spanning Tree Protocol), VTP (VLAN Trunking Protocol) e EtherChannel
+	- Monitoramento de performance e controle
+- Administração de servidores
+	- Gerenciamento de servidores Linux e Windows Server: instalação, configuração e manutenção
+	- Configuração de serviços de rede: DNS, DHCP, FTP, HTTP, HTTPS, SSH
+	- Gerenciamento de usuários, permissões e políticas de segurança
+	- Virtualização e containers: VMware, VirtualBox, Docker
+	- Monitoramento de recursos com htop, top, netstat, iostat, ps
+- Configuração de ativos de rede
+	- Configuração e gerenciamento de roteadores, switches e access points (Cisco, Juniper, TP-Link e outros)
+	- Implementação de políticas de segurança via ACLs (Access Control Lists) e autenticação de usuários
+	- Atualização de firmware e backup de configurações para garantia da estabilidade da rede
+	- Uso de ferramentas para automação e monitoramento como Ansible, SNMP, Wireshark e Nmap
+- Cabeamento estruturado
+	- Instalação e manutenção de sistemas de cabeamento estruturado seguindo normas técnicas
+	- Interesse em fibras ópticas conhecimento em cabos de par trançado (Cat5e, Cat6, Cat6a)
+	- Realização de testes de certificação com equipamentos específicos (certificadores de cabo, testadores de continuidade e atenuação)
+	- Organização e padronização do cabeamento para garantir alta performance e baixa latência
 - Observabilidade
-	- Estudos e testes em implantação de sistemas de logging com Syslog e Rsyslog
+	- Estudos e testes sobre sistemas de logging com Syslog e Rsyslog
 	- Interesse em coleta, análise e visualização de logs com ferramentas como ELK Stack (Elasticsearch, Kibana)
 	- Implementação inicial de monitoramento proativo com Zabbix, Nagios, Prometheus e Grafana
 	- Estudos sobre dashboards em análise de métricas e alertas da saúde e performance de ativos
@@ -115,10 +108,6 @@ Atividades e Realizações:
 - Implementando Pipelines CI/CD com GitHub Actions e GitLab CI, automatizando processos de deploy e integrando validações contínuas.
 - Estudos sobre clusters utilizando Kubernetes para orquestração de serviços e aplicações externas/internas, aplicando práticas de observabilidade e monitoramento via Prometheus, Grafana e Zabbix.
 - Estudos e aplicação de automatização na infraestrutura e provisionamento de ambientes utilizando ferramentas como Ansible, Puppet e Terraform.
-
-##### **HomeLab – Infraestrutura de Redes e Desenvolvimento**
-_Engenheiro de Infraestrutura de TI, Projeto Pessoal, 2023 – Presente_
-
 - Estudo e aplicação sobre práticas de segurança como:
     - Gestão de segredos com Vault (HashiCorp) e Bitwarden on-premises.
     - Autenticação de dois fatores (TOTP, chaves físicas).
@@ -142,11 +131,10 @@ Administro e contribuo para a Vrykolakas, uma comunidade de Minecraft focada em 
 - Gerenciei plugins (ex.: Spigot, Paper, LuckPerms) para personalização de jogabilidade, permissões de usuários e proteção contra griefing.
 - Configurei proxy reverso com NGINX e integração com Cloudflare, otimizando a latência e protegendo contra ataques DDoS.
 - Estudando sobre integração de sistemas de monitoramento como Prometheus e Grafana para acompanhar o do servidor, como o uso de CPU, memória e conexões de jogadores.
-
-##### **Vrykolakas – Administração de Comunidade e Servidor de Minecraft**
-
-_Administrador de Infraestrutura e Desenvolvedor, Projeto Comunitário, 2024 – Presente_
-
 - Implantei um sistema de notificações via Discord usando webhooks, informando a comunidade sobre atualizações, eventos e alertas de manutenção.
 - Mantenho a infraestrutura em servidores Linux, aplicando políticas de hardening com base em guias CIS e pretendo utilizar pfSense para gerenciamento de firewall.
 - Estou documentando a configuração do servidor e processos da comunidade em nossa [página](https://vrykolakas.space), incluindo guias para instalação de mods e administração de plugins.
+
+---
+
+[<kbd> <br>&nbsp;PDF&nbsp;<br> </kbd>](./curriculum-abiel_mendes-pt_br-full.pdf)

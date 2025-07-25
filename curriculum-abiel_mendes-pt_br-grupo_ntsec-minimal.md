@@ -1,12 +1,11 @@
 # Abiel Mendes dos Santos
+*CoE Enthusiast & Student • Backend • DevOps • DevSecOps • Infra | Git | GitHub | GitLab | CI/CD | Jenkins | Actions | Docker | Kubernets | AWS | GCP | CloudFlare | OpenStack | Ansible*
 
-portfolio: [paodelonga.dev](https://paodelonga.dev) \| linkedin: [linkedin.com/in/paodelonga/](https://linkedin.com/in/paodelonga/)
-github: [github.com/paodelonga](https://github.com/paodelonga) | curriculos: [vitae.paodelonga.dev](https://vitae.paodelonga.dev)
-e-mail: [paodelonga@proton.me](mailto://paodelonga@proton.me), [me@paodelonga.dev](mailto://me@paodelonga.dev)
+[paodelonga.dev](https://paodelonga.dev) \| [vitae.paodelonga.dev](https://vitae.paodelonga.dev) \| [linkedin.com/in/paodelonga/](https://linkedin.com/in/paodelonga/) \| [github.com/paodelonga](https://github.com/paodelonga) \| [paodelonga@proton.me](mailto://paodelonga@proton.me)
 
 ## Resumo Profissional
 
-Autodidata com enfoque em engenharia da computação, cursando Técnico Redes de Computadores - IFMA, Administração de Redes e Sistemas - SENAC e estagiando no Arquivo Público do Estado do Maranhão, com forte interesse em redes, hardware e sistemas operacionais, possui interesse em propagar conhecimento e resolver problemas encarados por outros.
+Autodidata com enfoque em engenharia da computação, cursando Técnico Redes de Computadores - IFMA, Administração de Redes e Sistemas - SENAC e estagiando no APEM, com forte interesse em redes, hardware e sistemas operacionais, possui interesse em propagar conhecimento e resolver problemas encarados por outros. No tempo livre sigo aprendendo mais sobre a área de Desenvolvimento, Redes e Infra por pesquisa e prática aplicada na minha infraestrutura criada a partir do interesse em DevOps e Redes.
 
 > Destaco a disponibilidade para mudança ou viagens, caso regime híbrido ou remoto. E o interesse
 que tive ao encontrar o Grupo NTSec de conhecer mais do grupo - seria incrível poder visita-los. E a
@@ -31,25 +30,23 @@ ativamente com os objetivos da empresa e do time
 - Segurança: Host Firewall (nftables, iptables, ufw), Fail2Ban, CrowdSec e IPFire. FWaaS (AWS WAF), Cloudflare WAF, Hashicorp Vault & Nomad, SSL, TLS.
 - Sistemas Operacionais: NixOS, Linux Desktop & Server (Ubuntu, Debian, ArchLinux), Windows Desktop, CentOS, Scripting e Automação Python, Bash, Zsh, Fish, Shell, Rust.
 
-<br>
-
 ## Formação
 
-****Técnico em Redes de Computadores**
-_IFMA_ – São José de Ribamar, MA
+**Técnico em Redes de Computadores**, Instituto Federal do Maranhão
+São José de Ribamar, MA
 _03/2023 – 01/2026_
 
-**Administração de Redes e Sistemas**
-_SENAC_ – São Luís, MA
+**Administração de Redes e Sistemas**, _SENAC_
+São Luís, MA
 _03/2025 – 08/2025_
 
-**Módulo 1 - Formação, Engenharia de Software**
-_INCODE Tech School_ – São Luís, MA
+**Módulo 1 - Formação, Engenharia de Software**, _INCODE Tech School, CEUMA_
+São Luís, MA
 _02/2024 – 07/2024_
 
-**Módulo 2 - Oxygenação, Engenharia de Software**
-_INCODE Tech School_ – São Luís, MA
-_08/2024 – 02/2025__
+**Módulo 2 - Oxygenação, Engenharia de Software**, _INCODE Tech School, CEUMA_
+São Luís, MA
+_08/2024 – 02/2025_
 
 ## Certificações de interesse
 
@@ -92,3 +89,7 @@ Administro e contribuo para a Vrykolakas, uma comunidade de Minecraft focada em 
 - Implantei um sistema de notificações via Discord usando webhooks, informando a comunidade sobre atualizações, eventos e alertas de manutenção.
 - Mantenho a infraestrutura em servidores Linux, aplicando políticas de hardening com base em guias CIS e pretendo utilizar pfSense para gerenciamento de firewall.
 - Estou documentando a configuração do servidor e processos da comunidade em nossa [página](https://vrykolakas.space), incluindo guias para instalação de mods e administração de plugins.
+
+---
+
+[<kbd> <br>&nbsp;PDF&nbsp;<br> </kbd>](./curriculum-abiel_mendes-pt_br-grupo_ntsec-minimal.pdf)
