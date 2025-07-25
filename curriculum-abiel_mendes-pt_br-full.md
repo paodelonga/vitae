@@ -1,9 +1,11 @@
 # Abiel Mendes dos Santos
-São Luís, Maranhão - Brasil
+*Estudante de Eng. Comp • Backend • DevOps • Infra<br>
+Git \| GitHub \| GitLab \| CI/CD \| Jenkins \| Actions \| Docker \| Kubernetes \| CloudFlare \| OpenStack \| Ansible*
 
-*Estudante de Eng. Comp • Backend • DevOps • Infra | Git | GitHub | GitLab | CI/CD | Jenkins | Actions | Docker | Kubernetes | CloudFlare | OpenStack | Ansible*
+📍 São Luís, Maranhão - Brasil<br>
+📧  [paodelonga@proton.me](mailto://paodelonga@proton.me) \| 💼 [linkedin.com/in/paodelonga](https://linkedin.com/in/paodelonga)<br>
+🔗 [paodelonga.dev](https://paodelonga.dev) \| 💻️ [github.com/paodelonga](https://github.com/paodelonga)
 
-[paodelonga.dev](https://paodelonga.dev) \| [linkedin.com/in/paodelonga/](https://linkedin.com/in/paodelonga/) \| [github.com/paodelonga](https://github.com/paodelonga) \| [paodelonga@proton.me](mailto://paodelonga@proton.me)
 
 ## Resumo Profissional
 
@@ -11,8 +13,8 @@ Autodidata com foco em engenharia da computação, cursando Técnico Redes de Co
 
 ## Experiência Profissional
 
-###### **Estagiário Arquivista**
-_Arquivo Público do Estado do Maranhão_ – São Luís, MA
+**Estagiário Arquivista**<br>
+_Arquivo Público do Estado do Maranhão_ – São Luís, MA<br>
 _11/2024 – 11/2025_
 
 - Gerenciei a realocação, organização e manutenção de computadores, incluindo limpeza e otimização de hardware.
@@ -20,8 +22,8 @@ _11/2024 – 11/2025_
 - Implementei soluções de conectividade e documentação de infraestrutura de rede, alinhadas às necessidades do local.
 - Contribuí para a digitalização e informatização do acervo, aplicando conhecimentos em infraestrutura de TI.
 
-###### **STAFF, Monitor - Maratona de Programação (Hackaton)**
-_INCODE Tech School - Trainee_ – São Luís, MA
+**STAFF, Monitor - Maratona de Programação (Hackaton)**<br>
+_INCODE Tech School - Trainee_ – São Luís, MA<br>
 _09/2024 – 09/2024_
 
 - Suporte eficiente: O acompanhamento e suporte técnico às equipes durante os desafios garantiu resolução rápida de problemas, mantendo o progresso das atividades.
@@ -31,20 +33,20 @@ _09/2024 – 09/2024_
 
 ## Formação
 
-**Técnico em Redes de Computadores**, Instituto Federal do Maranhão
-São José de Ribamar, MA
+**Técnico em Redes de Computadores**, Instituto Federal do Maranhão<br>
+São José de Ribamar, MA<br>
 _03/2023 – 01/2026_
 
-**Administração de Redes e Sistemas**, _SENAC_
-São Luís, MA
+**Administração de Redes e Sistemas**, _SENAC_<br>
+São Luís, MA<br>
 _03/2025 – 08/2025_
 
-**Módulo 1 - Formação, Engenharia de Software**, _INCODE Tech School, CEUMA_
-São Luís, MA
+**Módulo 1 - Formação, Engenharia de Software**, _INCODE Tech School, CEUMA_<br>
+São Luís, MA<br>
 _02/2024 – 07/2024_
 
-**Módulo 2 - Oxygenação, Engenharia de Software**, _INCODE Tech School, CEUMA_
-São Luís, MA
+**Módulo 2 - Oxygenação, Engenharia de Software**, _INCODE Tech School, CEUMA_<br>
+São Luís, MA<br>
 _08/2024 – 02/2025_
 
 ## Certificações de interesse
