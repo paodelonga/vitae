@@ -1,12 +1,42 @@
 # Abiel Mendes dos Santos
-*Estudante de Eng. Comp • Backend • DevOps • Infra | Git | GitHub | GitLab | CI/CD | Jenkins | Actions | Docker | Kubernetes | CloudFlare | OpenStack | Ansible*
+*Estudante de Eng. Comp • Backend • DevOps • Infra \| Git \| GitHub \| GitLab \| CI/CD \| Jenkins \| Actions \| Docker \| Kubernetes \| CloudFlare \| OpenStack \| Ansible*
 
-[paodelonga.dev](https://paodelonga.dev) \| [linkedin.com/in/paodelonga/](https://linkedin.com/in/paodelonga/) \| [github.com/paodelonga](https://github.com/paodelonga)<br>
-São Luís, Maranhão - Brasil \| [paodelonga@proton.me](mailto://paodelonga@proton.me)
+📍 São Luís, Maranhão - Brasil<br>
+📧  [paodelonga@proton.me](mailto://paodelonga@proton.me) \| 💼 [linkedin.com/in/paodelonga](https://linkedin.com/in/paodelonga)<br>
+🔗 [paodelonga.github.io](https://paodelonga.github.io) \| 💻️ [github.com/paodelonga](https://github.com/paodelonga)
 
 
 ## Resumo Profissional
 Autodidata com enfoque em engenharia da computação, cursando Técnico Redes de Computadores - IFMA, Administração de Redes e Sistemas - SENAC e estagiando no APEM, com forte interesse em redes, hardware e sistemas operacionais, possui interesse em propagar conhecimento e resolver problemas encarados por outros. No tempo livre sigo aprendendo mais sobre a área de Desenvolvimento, Redes e Infra por pesquisa e prática aplicada na minha infraestrutura criada a partir do interesse em DevOps e Redes.
+
+## Formação
+
+**Técnico em Redes de Computadores**, Instituto Federal do Maranhão<br>
+São José de Ribamar, MA<br>
+_03/2023 – 01/2026_
+
+**Administração de Redes e Sistemas**, _SENAC_<br>
+São Luís, MA<br>
+_03/2025 – 08/2025_
+
+**Módulo 1 - Formação, Engenharia de Software**, _INCODE Tech School, CEUMA_<br>
+São Luís, MA<br>
+_02/2024 – 07/2024_
+
+**Módulo 2 - Oxygenação, Engenharia de Software**, _INCODE Tech School, CEUMA_<br>
+São Luís, MA<br>
+_08/2024 – 02/2025_
+
+## Certificações de interesse
+
+- *CompTIA Network+*
+- *CompTIA Security+*
+- *AWS Certified Developer – Associate*
+- *AWS Certified DevOps Engineer – Professional*
+- *GitHub Actions Certified*
+- *GitHub Advanced Security Certified*
+- *Linux Foundation CKAD (Certified Kubernetes Application Developer)*
+- *GitLab Certified CI/CD Specialist*
 
 ## Habilidades Técnicas e de Interesse
 
@@ -24,35 +54,6 @@ Autodidata com enfoque em engenharia da computação, cursando Técnico Redes de
 - Cloud: Nginx, Traefik, Docker, Kubernetes, arquitetura de Micro-Serviços, Google Workspace, GCP e AWS
 - Segurança: Host Firewall (nftables, iptables, ufw), Fail2Ban, CrowdSec e IPFire. FWaaS (AWS WAF), Cloudflare WAF, Hashicorp Vault & Nomad, SSL, TLS
 - Sistemas Operacionais: NixOS, Linux Desktop & Server (Ubuntu, Debian, ArchLinux), Windows Desktop, CentOS, Scripting e Automação Python, Bash, Zsh, Fish, Shell, Rust
-
-## Formação
-
-**Técnico em Redes de Computadores**, Instituto Federal do Maranhão
-São José de Ribamar, MA
-_03/2023 – 01/2026_
-
-**Administração de Redes e Sistemas**, _SENAC_
-São Luís, MA
-_03/2025 – 08/2025_
-
-**Módulo 1 - Formação, Engenharia de Software**, _INCODE Tech School, CEUMA_
-São Luís, MA
-_02/2024 – 07/2024_
-
-**Módulo 2 - Oxygenação, Engenharia de Software**, _INCODE Tech School, CEUMA_
-São Luís, MA
-_08/2024 – 02/2025_
-
-## Certificações de interesse
-
-- *CompTIA Network+*
-- *CompTIA Security+*
-- *AWS Certified Developer – Associate*
-- *AWS Certified DevOps Engineer – Professional*
-- *GitHub Actions Certified*
-- *GitHub Advanced Security Certified*
-- *Linux Foundation CKAD (Certified Kubernetes Application Developer)*
-- *GitLab Certified CI/CD Specialist*
 
 ## Projetos
 
