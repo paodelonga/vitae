@@ -1,7 +1,7 @@
 # Abiel Mendes dos Santos
 Engenharia de Software • Infraestrutura • DevOps<br>
-Linux | WinServer | Docker | K8S | Ansible | Proxmox | AWS | CloudFlare | Ansible | MikroTik | Zabbix | Prometheus<br>
-[paodelonga.github.io](https://paodelonga.github.io) \| [linkedin.com/in/paodelonga](https://linkedin.com/in/paodelonga) \| [github.com/paodelonga](https://github.com/paodelonga) \| [paodelonga@proton.me](mailto://paodelonga@proton.me) \| [vitae](https://paodelonga.github.io/vitae)
+Linux | WinServer | Docker | K8S | Ansible | Proxmox | AWS | CloudFlare | MikroTik | Zabbix | Prometheus<br>
+[paodelonga.dev](https://paodelonga.dev) \| [linkedin.com/in/paodelonga](https://linkedin.com/in/paodelonga) \| [github.com/paodelonga](https://github.com/paodelonga) \| [paodelonga@proton.me](mailto:paodelonga@proton.me) \| [vitae](https://vitae.paodelonga.dev)
 
 
 ## Resumo
@@ -10,7 +10,7 @@ Profissional em formação na área de Engenharia da Computação, cursando Téc
 
 Atuou no Arquivo Público do Estado do Maranhão, contribuindo com atividades de suporte técnico, manutenção de infraestrutura de TI, administração de redes, organização documental, digitalização de acervos e suporte aos setores internos. Possui perfil organizado, comunicativo, analítico e proativo, com facilidade para aprender novas tecnologias, solucionar problemas e colaborar em ambientes multidisciplinares.
 
-Atualmente, segue desenvolvendo conhecimentos nas áreas de Infraestrutura de TI, Redes de Computadores, Desenvolvimento e Operações de Software (DevOps), enquanto administra projetos próprios de infraestrutura através da @[grinmaldis](https://www.linkedin.com/company/grinmaldis/) e oferece serviços de Suporte Técnico e Manutenção de Computadores pela [Fornalha Tech](<@[fornalha-tech](https://www.linkedin.com/company/fornalha-tech)>), com foco em linhas Mid/High-End.
+Atualmente, segue desenvolvendo conhecimentos nas áreas de Infraestrutura de TI, Redes de Computadores, Desenvolvimento e Operações de Software (DevOps), enquanto administra projetos próprios de infraestrutura através da [Grinmaldis](https://www.linkedin.com/company/grinmaldis/) e oferece serviços de Suporte Técnico e Manutenção de Computadores pela [Fornalha Tech](https://www.linkedin.com/company/fornalha-tech), com foco em linhas Mid/High-End.
 
 
 ## Experiência Profissional
@@ -54,15 +54,15 @@ Atuei no suporte às atividades administrativas e tecnológicas da instituição
 MikroTik RouterOS, TP-Link Omada, TP-Link JetStream, TCP/IP, LAN/Wi-Fi, Cabeamento Estruturado, Windows, Linux, Microsoft Office (Word, Excel), GLPI, NetBox, BookStack, Git, diagrams.net e ferramentas de digitalização e gestão documental.
 
 
-### **STAFF, Monitor - Maratona de Programação (Hackaton)**
+### **STAFF, Monitor - Maratona de Programação (Hackathon)**
 _INCODE Tech School - Trainee_ – São Luís, MA<br>
 _09/2024 – 09/2024_
 
 **Atividades e Realizações:**
-- Suporte eficiente: O acompanhamento e suporte técnico às equipes durante os desafios garantiu resolução rápida de problemas, mantendo o progresso das atividades.
-- Conformidade assegurada: A garantia do cumprimento das regras e obrigações do evento promoveu um ambiente justo e organizado, reforçando a credibilidade da competição.
-- Logística otimizada: O auxílio em questões logísticas e na organização do espaço resultou em um evento fluido, com menos atrasos e melhor aproveitamento do tempo.
-- Ambiente seguro e acolhedor: A promoção de um ambiente adequado e seguro proporcionou conforto e confiança aos participantes, elevando a qualidade da experiência.
+- Acompanhei as equipes durante os desafios, dando suporte técnico e ajudando a resolver problemas sem interromper o andamento das atividades.
+- Garanti o cumprimento das regras e das obrigações do evento, mantendo a competição justa e organizada.
+- Apoiei a logística e a organização do espaço, contribuindo para que o evento transcorresse com menos atrasos.
+- Ajudei a manter um ambiente seguro e acolhedor para os participantes.
 
 
 ## Projetos
@@ -131,7 +131,7 @@ _01/2020 – 01/2023_
 ## Conhecimentos
 
 - Desenvolvimento: Python, Java, TypeScript, Node.js, API REST, Git, GitHub, GitLab, Jenkins, Gitea
-- Infraestrutura: Docker, Proxmox, VMWare, KVM, Kubernetes, OpenStack, EVE-NG, XPC-NG, pfSense, OpenWRT
+- Infraestrutura: Docker, Proxmox, VMWare, KVM, Kubernetes, OpenStack, EVE-NG, XCP-ng, pfSense, OpenWRT
 - Automação e Configuração: Ansible, Terraform
 - Monitoramento e Logging: Zabbix, Prometheus, Grafana
 - Bancos de Dados: MySQL, Firebase, H2

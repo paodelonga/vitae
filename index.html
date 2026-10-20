@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="vitae · currículos do Pão (Abiel Mendes dos Santos)">
+    <title>Pão · vitae</title>
+    <style>
+        :root {
+            --bg: #fbfbf9;
+            --fg: #1d1d1b;
+            --muted: #6b6b66;
+            --link: #1d1d1b;
+            --line: #d9d9d4;
+        }
+
+        @media (prefers-color-scheme: dark) {
+            :root:not([data-theme="light"]) {
+                --bg: #161614;
+                --fg: #e8e8e3;
+                --muted: #9a9a93;
+                --link: #e8e8e3;
+                --line: #3a3a36;
+            }
+        }
+
+        :root[data-theme="dark"] {
+            --bg: #161614;
+            --fg: #e8e8e3;
+            --muted: #9a9a93;
+            --link: #e8e8e3;
+            --line: #3a3a36;
+        }
+
+        body {
+            background: var(--bg);
+            color: var(--fg);
+            font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+            font-size: 15px;
+            line-height: 1.6;
+            margin: 0;
+            padding: 16px;
+        }
+
+        main {
+            max-width: 640px;
+            margin: 6vh auto;
+        }
+
+        h1 {
+            font-size: 1.1em;
+            margin: 0 0 4px;
+        }
+
+        .sub {
+            color: var(--muted);
+            margin: 0 0 28px;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+            margin: 0 0 28px;
+        }
+
+        li {
+            border-top: 1px solid var(--line);
+            padding: 12px 0;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 4px 16px;
+            align-items: baseline;
+        }
+
+        li:last-child {
+            border-bottom: 1px solid var(--line);
+        }
+
+        li a.name {
+            color: var(--link);
+            font-weight: 600;
+        }
+
+        li .meta {
+            color: var(--muted);
+            font-size: 0.9em;
+        }
+
+        li .pdf {
+            margin-left: auto;
+            color: var(--muted);
+        }
+
+        a {
+            color: var(--link);
+        }
+
+        footer {
+            color: var(--muted);
+            font-size: 0.9em;
+        }
+
+        @media (max-width: 480px) {
+            li .pdf {
+                margin-left: 0;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <main>
+        <h1>Pão · vitae</h1>
+        <p class="sub">
+            agregador das versões do currículo de Pão (Abiel Mendes dos Santos).<br>
+            aggregator of the CV versions of Pão.
+        </p>
+
+        <ul>
+            <li>
+                <a class="name" href="./curriculum-abiel_mendes-pt_br-full.html">Currículo Mestre · PT-BR</a>
+                <span class="meta">engenharia de software · infra · devops</span>
+                <a class="pdf" href="./curriculum-abiel_mendes-pt_br-full.pdf">PDF</a>
+            </li>
+            <!-- <li>
+                <a class="name" href="./curriculum-abiel_mendes-pt_br-minimal.html">Mínimo · PT-BR</a>
+                <span class="meta">versão curta</span>
+                <a class="pdf" href="./curriculum-abiel_mendes-pt_br-minimal.pdf">PDF</a>
+            </li> -->
+        </ul>
+
+        <footer>
+            <a href="https://paodelonga.dev">paodelonga.dev</a> ·
+            <a href="https://linkedin.com/in/paodelonga">linkedin</a> ·
+            <a href="https://github.com/paodelonga">github</a> ·
+            <a href="https://linker.paodelonga.dev">links</a> ·
+            <a href="mailto:paodelonga@proton.me">paodelonga@proton.me</a>
+        </footer>
+    </main>
+</body>
+
+</html>
