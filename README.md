@@ -15,7 +15,7 @@ src/
   site/cv-page.html       modelo do currículo em HTML
   site/cv-print.html      modelo do PDF
   site/print-ats.css      estilo do PDF (ATS: uma coluna, texto preto, fonte padrão)
-pdf/                      PDFs gerados e versionados
+pdf/                      PDFs gerados e versionados (copiados para a raiz do site)
 perfil/                   textos para LinkedIn e Instagram (não publicados)
 build.py                  gera dist/ a partir de src/
 CNAME                     domínio personalizado (vitae.paodelonga.dev)

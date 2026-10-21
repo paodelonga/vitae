@@ -178,10 +178,9 @@ def main():
         else:
             print(f"  aviso: {pdf_path.relative_to(ROOT)} não existe; rode com --pdf")
 
-    # PDFs versionados entram em dist/pdf/ para os links da página
-    (DIST / "pdf").mkdir()
+    # PDFs na raiz, com o mesmo nome de antes: links já compartilhados continuam válidos
     for pdf in sorted(PDF_DIR.glob("*.pdf")):
-        shutil.copy(pdf, DIST / "pdf" / pdf.name)
+        shutil.copy(pdf, DIST / pdf.name)
 
     if BUILD.exists():
         shutil.rmtree(BUILD)
