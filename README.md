@@ -40,7 +40,10 @@ Dependências: Python 3, pandoc. Para `--pdf`, também Chromium. O workflow
   [career-ops](https://github.com/career-ops-hq/career-ops): uma coluna, texto selecionável,
   nome e contato no corpo (não no cabeçalho do PDF), cabeçalhos padrão
   (Resumo Profissional, Experiência Profissional, Formação, Habilidades, Projetos),
-  sem tabelas aninhadas nem texto escondido. O `build.py` avisa quando um PDF passa de 2 páginas
-  ou tem cabeçalho fora do padrão.
+  sem tabelas aninhadas nem texto escondido.
+- **Mestre x derivados:** o `full.md` (PT e EN) é a base de dados do perfil e não tem limite de
+  páginas. Currículos derivados, gerados para uma vaga específica, devem ter no máximo 3 páginas;
+  o `build.py` avisa quando passam disso. Os cabeçalhos em `ACCEPTED_HEADERS` (em `build.py`) são
+  aceitos de propósito.
 - **Nomes de arquivo:** os nomes `curriculum-abiel_mendes-*` são públicos. Não renomeie sem
   ajustar os links da página principal e do perfil do GitHub.

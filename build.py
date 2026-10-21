@@ -34,6 +34,7 @@ CVS = [
         "description": "Currículo completo de Abiel Mendes dos Santos (pt-br).",
         "other": ("curriculum-abiel_mendes-en_us-full", "en-us"),
         "listed": True,
+        "master": True,
     },
     {
         "src": SRC / "cv" / "en-us" / "full.md",
@@ -43,6 +44,7 @@ CVS = [
         "description": "Full CV of Abiel Mendes dos Santos (en-us).",
         "other": ("curriculum-abiel_mendes-pt_br-full", "pt-br"),
         "listed": True,
+        "master": True,
     },
     {
         "src": SRC / "cv" / "pt-br" / "minimal.md",
@@ -58,6 +60,13 @@ CVS = [
 # Cabeçalhos que o ATS reconhece (templates/ats-rules.yml do career-ops). Só avisamos.
 ATS_HEADERS_PT = ["Resumo Profissional", "Experiência Profissional", "Formação", "Habilidades", "Projetos"]
 ATS_HEADERS_EN = ["Professional Summary", "Work Experience", "Education", "Skills", "Projects"]
+
+# Cabeçalhos fora do padrão que foram mantidos de propósito (não geram nota).
+ACCEPTED_HEADERS = {
+    "Certificações de interesse",  # certificações que a pessoa quer fazer, não que tem
+    "Certifications of Interest",
+    "Habilidades Técnicas e de Interesse",
+}
 
 # Botão "PDF" no fim de cada .md antigo: some do HTML, o link já está no cabeçalho da página.
 PDF_BUTTON = re.compile(r"\n+-{3,}\n+\[<kbd>.*?</kbd>\]\([^)]*\)\s*$", re.S)
@@ -92,7 +101,12 @@ def make_pdf(html_path, pdf_path):
     run(cmd, timeout=180)
 
 
-def check_ats(pdf_path, md_path):
+# Limite de páginas para currículos derivados (para uma vaga). O mestre é a base de dados
+# do perfil, por isso não tem limite.
+MAX_PAGES_TAILORED = 3
+
+
+def check_ats(pdf_path, md_path, master):
     """Avisos, não erros: texto extraível, número de páginas e cabeçalhos fora do padrão."""
     if not shutil.which("pdftotext") or not shutil.which("pdfinfo"):
         return
@@ -101,9 +115,11 @@ def check_ats(pdf_path, md_path):
     headings = re.findall(r"^## (.+)$", md_path.read_text(encoding="utf-8"), re.M)
     print(f"  {pdf_path.name}: {pages} página(s), {len(text)} caracteres extraídos")
     print(f"    seções: {' | '.join(headings)}")
-    if pages > 2:
-        print("    aviso: mais de 2 páginas (o career-ops marca 2 como o limite)")
-    standard = set(ATS_HEADERS_PT) | set(ATS_HEADERS_EN)
+    if master:
+        print("    mestre: sem limite de páginas (base de dados do perfil)")
+    elif pages > MAX_PAGES_TAILORED:
+        print(f"    aviso: currículo derivado com mais de {MAX_PAGES_TAILORED} páginas")
+    standard = set(ATS_HEADERS_PT) | set(ATS_HEADERS_EN) | ACCEPTED_HEADERS
     odd = [h for h in headings if h not in standard]
     if odd:
         print(f"    nota: cabeçalhos fora do padrão ATS: {' | '.join(odd)}")
@@ -174,7 +190,7 @@ def main():
             make_pdf(print_html, pdf_path)
             print(f"  gerado {pdf_path.relative_to(ROOT)}")
         if pdf_path.exists():
-            check_ats(pdf_path, cv["src"])
+            check_ats(pdf_path, cv["src"], cv.get("master", False))
         else:
             print(f"  aviso: {pdf_path.relative_to(ROOT)} não existe; rode com --pdf")
 
