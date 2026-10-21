@@ -2,8 +2,8 @@
 *Estudante de Eng. Comp • Backend • DevOps • Infra \| Git \| GitHub \| GitLab \| CI/CD \| Jenkins \| Actions \| Docker \| Kubernetes \| CloudFlare \| OpenStack \| Ansible*
 
 📍 São Luís, Maranhão - Brasil<br>
-📧  [paodelonga@proton.me](mailto://paodelonga@proton.me) \| 💼 [linkedin.com/in/paodelonga](https://linkedin.com/in/paodelonga)<br>
-🔗 [paodelonga.github.io](https://paodelonga.github.io) \| 💻️ [github.com/paodelonga](https://github.com/paodelonga)
+📧  [paodelonga@proton.me](mailto:paodelonga@proton.me) \| 💼 [linkedin.com/in/paodelonga](https://linkedin.com/in/paodelonga)<br>
+🔗 [paodelonga.dev](https://paodelonga.dev) \| 💻️ [github.com/paodelonga](https://github.com/paodelonga)
 
 
 ## Resumo Profissional
