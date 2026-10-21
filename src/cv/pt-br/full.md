@@ -4,7 +4,7 @@ Linux | WinServer | Docker | K8S | Ansible | Proxmox | AWS | CloudFlare | MikroT
 [paodelonga.dev](https://paodelonga.dev) \| [linkedin.com/in/paodelonga](https://linkedin.com/in/paodelonga) \| [github.com/paodelonga](https://github.com/paodelonga) \| [paodelonga@proton.me](mailto:paodelonga@proton.me) \| [vitae](https://vitae.paodelonga.dev)
 
 
-## Resumo
+## Resumo Profissional
 
 Profissional em formação na área de Engenharia da Computação, cursando Técnico em Redes de Computadores no IFMA, formado em Administração de Redes e Sistemas pelo SENAC e com formação complementar de 2 anos pela INCODE Tech School, através do Oxygeni HUB na Universidade CEUMA.
 
@@ -22,6 +22,7 @@ _08/2025 – Atualmente_
 Atuo como prestador de serviços de tecnologia da informação voltados ao suporte, manutenção e otimização de ambientes computacionais para usuários domésticos e profissionais. Desenvolvo soluções personalizadas envolvendo diagnóstico técnico, manutenção de hardware, configuração de sistemas, melhoria de desempenho e orientação para aquisição e atualização de equipamentos.
 
 **Atividades e Realizações:**
+
 - Registro, acompanho e atualizo chamados por meio da plataforma de ITSM GLPI, assegurando o controle do ciclo de atendimento e a documentação das soluções aplicadas.
 - Presto suporte técnico especializado para desktops e notebooks, realizando diagnóstico, troubleshooting e resolução de incidentes relacionados a hardware, software e firmware (BIOS/UEFI).
 - Executo manutenção preventiva e corretiva em desktops e notebooks, incluindo limpeza técnica, substituição de componentes, upgrades, otimização de desempenho e validação de compatibilidade entre hardware e software.
@@ -41,6 +42,7 @@ _11/2024 – 05/2026_
 Atuei no suporte às atividades administrativas e tecnológicas da instituição, contribuindo para a manutenção da infraestrutura de TI, organização documental, digitalização do acervo e suporte aos setores internos. Desenvolvi atividades envolvendo administração de redes, suporte técnico, documentação de infraestrutura, gestão de ativos e processos administrativos.  
   
 **Atividades e Realizações:**  
+
 - Administrei e mantive componentes da infraestrutura de rede, incluindo MikroTik RB750Gr3, Switch TP-Link TL-SG2428P e Access Points TP-Link EAP610.  
 - Apoiei a implantação e manutenção de cabeamento estruturado, switches, roteadores, pontos de acesso, conectividade LAN/Wi-Fi e organização física da infraestrutura.  
 - Prestei suporte técnico aos usuários, realizando manutenção preventiva e corretiva em computadores e resolução de incidentes relacionados a hardware, software e rede.  
@@ -59,6 +61,7 @@ _INCODE Tech School - Trainee_ – São Luís, MA<br>
 _09/2024 – 09/2024_
 
 **Atividades e Realizações:**
+
 - Acompanhei as equipes durante os desafios, dando suporte técnico e ajudando a resolver problemas sem interromper o andamento das atividades.
 - Garanti o cumprimento das regras e das obrigações do evento, mantendo a competição justa e organizada.
 - Apoiei a logística e a organização do espaço, contribuindo para que o evento transcorresse com menos atrasos.
@@ -73,6 +76,7 @@ _Administrador de Infraestrutura, Projeto Pessoal, 2023 – Presente_
 Desenvolvo e administro uma infraestrutura pessoal voltada para estudos e aplicação prática em Administração de Sistemas, Redes e DevOps. O ambiente utiliza servidores Linux (Debian, Ubuntu e CentOS) para experimentação de virtualização, automação, segurança, observabilidade e hospedagem de serviços.  
   
 **Atividades e Realizações:**  
+
 - Implementação de pipelines CI/CD utilizando GitHub Actions e GitLab CI para automação de deploy e validações contínuas.  
 - Administração de ambientes conteinerizados com Docker e clusters Kubernetes para orquestração de serviços internos e externos.  
 - Automação de provisionamento e gerenciamento de infraestrutura utilizando Ansible, Puppet e Terraform.  
@@ -93,6 +97,7 @@ _Administrador de Servidores e Desenvolvedor, Projeto Pessoal, 2024 – Presente
 Administro e contribuo para a Vrykolakas, uma comunidade de Minecraft focada em criar uma experiência imersiva com servidores personalizados. Utilizo servidores Linux (Ubuntu, Debian) e ferramentas como Docker, Bash scripting e plugins para gerenciar e otimizar a infraestrutura do jogo, garantindo alta disponibilidade e desempenho.
 
 **Atividades e Realizações**:
+
 - Configuro e mantenho servidores Minecraft em Linux, utilizando Docker para isolamento de ambientes e otimização de recursos.
 - Faço pesquisa e implemento automações com scripts Bash para tarefas administrativas, como backups automáticos e reinicializações programadas, reduzindo tarefas manuais e aumentando a previsibilidade dos processos.
 - Gerenciei plugins (ex.: Spigot, Paper, LuckPerms) para personalização de jogabilidade, permissões de usuários e proteção contra griefing.
@@ -128,7 +133,7 @@ COHAB, São Luís, MA<br>
 _01/2020 – 01/2023_
 
 
-## Conhecimentos
+## Habilidades
 
 - Desenvolvimento: Python, Java, TypeScript, Node.js, API REST, Git, GitHub, GitLab, Jenkins, Gitea
 - Infraestrutura: Docker, Proxmox, VMWare, KVM, Kubernetes, OpenStack, EVE-NG, XCP-ng, pfSense, OpenWRT

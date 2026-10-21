@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="pt-br" data-lang="pt">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="vitae, currículos de Pão (Abiel Mendes dos Santos)">
+    <title>Pão, vitae</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <main>
+        <header>
+            <h1>Pão</h1>
+            <div class="lang" role="group" aria-label="Idioma / Language">
+                <button type="button" data-set="pt" aria-pressed="true">pt-br</button>
+                <span aria-hidden="true">/</span>
+                <button type="button" data-set="en" aria-pressed="false">en-us</button>
+            </div>
+        </header>
+
+        <p class="intro">
+            I like linux, programming &amp; snake_case.<br>
+            reach me anywhere at handle @paodelonga.<br>
+            hosting useless stuffs on *.paodelonga.dev.<br><br>
+            The CV versions are published here.
+        </p>
+
+        <dl class="facts">
+            <dt data-l="pt">área</dt>
+            <dt data-l="en">focus</dt>
+            <dd>infra, devops, redes</dd>
+
+            <dt data-l="pt">base</dt>
+            <dt data-l="en">based</dt>
+            <dd data-l="pt">São Luís, MA, Brasil</dd>
+            <dd data-l="en">São Luís, MA, Brazil</dd>
+
+            <dt data-l="pt">stack</dt>
+            <dt data-l="en">stack</dt>
+            <dd>linux, docker, kubernetes, ansible, cloudflare, proxmox</dd>
+
+            <dt data-l="pt">contato</dt>
+            <dt data-l="en">contact</dt>
+            <dd><a href="mailto:me@paodelonga.dev">me@paodelonga.dev</a></dd>
+        </dl>
+
+        <h2 data-l="pt">currículos</h2>
+        <h2 data-l="en">cvs</h2>
+
+        <ul class="docs">
+            <li>
+                <span class="name" data-l="pt">Currículo mestre</span>
+                <span class="name" data-l="en">Master CV</span>
+                <span class="actions">
+                    <a href="./curriculum-abiel_mendes-pt_br-full.html" data-l="pt">ver</a>
+                    <a href="./curriculum-abiel_mendes-en_us-full.html" data-l="en">view</a>
+                    <a href="./pdf/curriculum-abiel_mendes-pt_br-full.pdf" data-l="pt">pdf</a>
+                    <a href="./pdf/curriculum-abiel_mendes-en_us-full.pdf" data-l="en">pdf</a>
+                </span>
+                <span class="for" data-l="pt">Versão completa. Para recrutadores técnicos e processos seletivos no Brasil.</span>
+                <span class="for" data-l="en">Full version. For technical recruiters and hiring processes in Brazil.</span>
+            </li>
+        </ul>
+
+        <footer>
+            <ul>
+                <li><a href="https://paodelonga.dev">paodelonga.dev</a></li>
+                <li><a href="https://linker.paodelonga.dev">links</a></li>
+                <li><a href="https://blog.paodelonga.dev">notas</a></li>
+                <li><a href="https://github.com/paodelonga">github</a></li>
+                <li><a href="https://linkedin.com/in/paodelonga">linkedin</a></li>
+                <li><a href="https://instagram.com/paodelonga">instagram</a></li>
+            </ul>
+        </footer>
+    </main>
+
+    <script>
+        // troca de idioma sem recarregar; o padrão é pt-br
+        (function () {
+            var root = document.documentElement;
+            var buttons = document.querySelectorAll('[data-set]');
+
+            function setLang(lang) {
+                root.setAttribute('data-lang', lang);
+                root.setAttribute('lang', lang === 'pt' ? 'pt-br' : 'en-us');
+                buttons.forEach(function (b) {
+                    b.setAttribute('aria-pressed', String(b.dataset.set === lang));
+                });
+            }
+
+            buttons.forEach(function (b) {
+                b.addEventListener('click', function () { setLang(b.dataset.set); });
+            });
+        })();
+    </script>
+</body>
+
+</html>

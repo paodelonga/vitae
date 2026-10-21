@@ -4,7 +4,7 @@ Linux | Windows Server | Docker | K8S | Ansible | Proxmox | AWS | Cloudflare | M
 [paodelonga.dev](https://paodelonga.dev) \| [linkedin.com/in/paodelonga](https://linkedin.com/in/paodelonga) \| [github.com/paodelonga](https://github.com/paodelonga) \| [paodelonga@proton.me](mailto:paodelonga@proton.me) \| [vitae](https://vitae.paodelonga.dev)
 
 
-## Summary
+## Professional Summary
 
 Engineering professional in training, studying Computer Engineering and a Network Technician degree at IFMA, with a degree in Network and Systems Administration from SENAC and 2 years of complementary training at INCODE Tech School, through Oxygeni HUB at CEUMA University.
 
@@ -13,7 +13,7 @@ Worked at the Public Archive of the State of Maranhão (Arquivo Público do Esta
 Currently developing skills in IT infrastructure, computer networks, and software development and operations (DevOps), while running personal infrastructure projects through [Grinmaldis](https://www.linkedin.com/company/grinmaldis/) and offering technical support and computer maintenance services through [Fornalha Tech](https://www.linkedin.com/company/fornalha-tech), focused on mid- and high-end hardware.
 
 
-## Professional Experience
+## Work Experience
 
 ### **Self-employed - End-User IT Services**
 _Fornalha TECH_ – São Luís, MA<br>
@@ -22,6 +22,7 @@ _08/2025 – Present_
 I provide IT services focused on support, maintenance, and optimization of computing environments for home and professional users. I deliver tailored solutions involving technical diagnosis, hardware maintenance, system configuration, performance improvement, and guidance on purchasing and upgrading equipment.
 
 **Activities and Achievements:**
+
 - Log, follow up, and update tickets in the GLPI ITSM platform, keeping the service lifecycle controlled and each solution documented.
 - Provide specialized technical support for desktops and laptops, including diagnosis, troubleshooting, and resolution of hardware, software, and firmware (BIOS/UEFI) incidents.
 - Perform preventive and corrective maintenance on desktops and laptops, including technical cleaning, component replacement, upgrades, performance tuning, and hardware and software compatibility checks.
@@ -41,6 +42,7 @@ _11/2024 – 05/2026_
 I supported the institution's administrative and technology activities, helping maintain IT infrastructure, organize documents, digitize the archive, and support internal departments. I worked on network administration, technical support, infrastructure documentation, asset management, and administrative processes.
 
 **Activities and Achievements:**
+
 - Administered and maintained network infrastructure components, including a MikroTik RB750Gr3, a TP-Link TL-SG2428P switch, and TP-Link EAP610 access points.
 - Supported the deployment and maintenance of structured cabling, switches, routers, access points, LAN/Wi-Fi connectivity, and the physical organization of the infrastructure.
 - Provided technical support to users, performing preventive and corrective maintenance on computers and resolving hardware, software, and network incidents.
@@ -59,6 +61,7 @@ _INCODE Tech School - Trainee_ – São Luís, MA<br>
 _09/2024 – 09/2024_
 
 **Activities and Achievements:**
+
 - Followed the teams during the challenges, providing technical support and helping resolve problems without interrupting the activities.
 - Ensured the event's rules and obligations were followed, keeping the competition fair and organized.
 - Supported logistics and the organization of the venue, helping the event run with fewer delays.
@@ -73,6 +76,7 @@ _Infrastructure Administrator, Personal Project, 2023 – Present_
 I design and run a personal infrastructure for studying and practicing systems administration, networking, and DevOps. The environment uses Linux servers (Debian, Ubuntu, and CentOS) for virtualization, automation, security, observability, and service hosting experiments.
 
 **Activities and Achievements:**
+
 - Built CI/CD pipelines with GitHub Actions and GitLab CI for automated deployment and continuous validation.
 - Administered containerized environments with Docker and Kubernetes clusters to orchestrate internal and external services.
 - Automated infrastructure provisioning and management with Ansible, Puppet, and Terraform.
@@ -93,6 +97,7 @@ _Server Administrator and Developer, Personal Project, 2024 – Present_
 I administer and contribute to Vrykolakas, a Minecraft community focused on immersive experiences with custom servers. I use Linux servers (Ubuntu, Debian) and tools such as Docker, Bash scripting, and plugins to manage and tune the game infrastructure, aiming for high availability and performance.
 
 **Activities and Achievements:**
+
 - Set up and maintain Minecraft servers on Linux, using Docker to isolate environments and optimize resources.
 - Researched and implemented automation with Bash scripts for administrative tasks such as automatic backups and scheduled restarts, reducing manual work and making processes more predictable.
 - Managed plugins (e.g., Spigot, Paper, LuckPerms) for gameplay customization, user permissions, and protection against griefing.
